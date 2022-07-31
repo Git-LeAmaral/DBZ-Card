@@ -3,6 +3,8 @@
 Projeto criado durante a maratona MAPADEVWEEK, do canal Dev em Dobro https://www.youtube.com/c/DevemDobro,
 onde foi utilizado HTML, CSS e JAVASCRIPT.
 
+Link: https://git-leamaral.github.io/DBZ-Card/
+
 ## Imagem 
 
 ![DBZ-card](https://user-images.githubusercontent.com/101153930/182006898-46eb13f8-8f9a-4c1f-b647-564d5d0dc4dc.jpg)
